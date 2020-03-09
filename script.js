@@ -5,7 +5,7 @@ let xmlns = "http://www.w3.org/2000/svg";
 let svg = document.createElementNS(xmlns, "svg");
 svg.setAttribute("width", 600);
 svg.setAttribute("height", 700);
-svg.setAttribute("viewBox", "0 0 700 700");
+svg.setAttribute("viewBox", "0 0 600 600");
 svg.setAttribute("background", "grey");
 
 for(y = 0; y < arr2.length; y = y + 1){
